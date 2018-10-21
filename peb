@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <title>The Story of Ib</title>
+  
+  <style>
+    header {
+    font-size: 36px;
+    font-family: times-new-roman;
+    background-color: pink;
+    }
+    h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    }
+    p {
+    background-color: cyan;
+    }
+  </style>
+  
+<body>
+  <header>Here goes nothing.</header>
+  <h1><strong>It all began one stormy night...</strong></h1>
+  <p>a flash of rain descended upon a perforated tin roof flooding each inward curve of metal and filling every divit, scratch, and hole. A sauntering, shivering, and wide-awake Ib huddled in a corner, underneath the tin roof. A thin blanket wrapped tightly over his head, and clutched below the chin. It was nights like these, Ib despised most, leaving him soaked then damp for hours as a musty smell accompanied the tirade. As if squatting in an abandoned shed of a warehouse was not humiliating enough, Ib would spend the next twenty-fours reeking of muddied water as tangled strands of hair clung to his forehead. Had life always been this miserable? He caught himself trying to remember cozier days that seemed like a long-ago dream. Those days were over. As a matter of fact, Ib obsessed quietly with shivering limbs of the new fact that every single second of misery he was currently experiencing also joined those long ago dreams of reality gone. Like thin slivers of dry spaghetti slipping through his fingers, every second was a reminder that the present is as fleeting as it is non-existent. Ib couldn't grasp a single moment, no matter how hard he had tried. And in the cold, dark, huddle of the corner, Ib found a little bit of relief in the irony of misery slipping through his hands. Suddenly, he felt the anxiety of the foreshadowing mugginess of the next day leave his body. His breath returned to a smooth, slow rhythm as the wrinkles of tension in his forehead melted away. </p>
+
+</body>
+</html>
