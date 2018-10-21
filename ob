@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <title>The Story of Ib</title>
+  
+  <style>
+    h1 {
+    font-size: 24px;
+    font-family: sans-serif;
+    }
+  </style>
+  
+  <header>Here goes nothing.</header>
+  <h1><strong>It all began one stormy night...</strong></h1>
+</html>
